@@ -1,0 +1,130 @@
+{
+    "datasiswa": [
+        {
+            "ID": 1,
+            "name": "Robert",
+            "birth date": "12 December 1990",
+            "full name": "Roberto Martinez",
+            "phone number": "089473746372",
+            "hobbies": [
+                "band",
+                "sing"
+            ],
+            " gender": "male",
+            "ranking": "1"
+        },
+        {
+            "ID": 3,
+            "name": "Daniel",
+            "birth date": "17 November 1995",
+            "full name": "Daniel Sanchez",
+            "phone number": "08145374672",
+            "hobbies": [
+                "swim",
+                "play game"
+            ],
+            " gender": "male",
+            "ranking": "3"
+        },
+        {
+            "ID": 4,
+            "name": "Leona",
+            "birth date": "27 January 1999",
+            "full name": "Leona Da Santa",
+            "phone number": "08299974698",
+            "hobbies": [
+                "dancing",
+                "band"
+            ],
+            " gender": "female",
+            "ranking": "2"
+        },
+        {
+            "ID": 5,
+            "name": "Jennifer",
+            "birth date": "19 Marcg 2000",
+            "full name": "Jennifer Maria",
+            "phone number": "0894637873242",
+            "hobbies": [
+                "design",
+                "photography"
+            ],
+            " gender": "female",
+            "ranking": "5"
+        },
+        {
+            "ID": 6,
+            "name": "Vladimir",
+            "birth date": "07 july 2000",
+            "full  name": "Vladimir",
+            "phone number": "08765645622",
+            "hobbies": [
+                "watch film",
+                "drawing"
+            ],
+            " gender": "male",
+            "ranking": "7"
+        },
+        {
+            "ID": 7,
+            "name": "Vlado",
+            "birth date": "17 May 2000",
+            "full name": "Vlado Omar",
+            "phone number": "0876745522",
+            "hobbies": [
+                "jogging",
+                "badminton"
+            ],
+            "gender": "male",
+            "ranking": "6"
+        },
+        {
+            "ID": 7,
+            "name": "Vlado",
+            "birth date": "17 May 2000",
+            "full name": "Vlado Omar",
+            "phone number": "0876745522",
+            "hobbies": [
+                "jogging",
+                "badminton"
+            ],
+            "gender": "male"
+        },
+        {
+            "ID": 7,
+            "name": "Vlado",
+            "birth date": "17 May 2000",
+            "full name": "Vlado Omar",
+            "phone number": "0876745522",
+            "hobbies": [
+                "jogging",
+                "badminton"
+            ],
+            "gender": "male"
+        },
+        {
+            "ID": 7,
+            "name": "Vlado",
+            "birth date": "17 May 2000",
+            "full name": "Vlado Omar",
+            "phone number": "0876745522",
+            "hobbies": [
+                "jogging",
+                "badminton"
+            ],
+            "gender": "male"
+        },
+        {
+            "ID": 7,
+            "name": "Vlado",
+            "birth date": "17 May 2000",
+            "full name": "Vlado Omar",
+            "phone number": "0876745522",
+            "hobbies": [
+                "jogging",
+                "badminton"
+            ],
+            "gender": "male"
+        }
+    ]
+}
